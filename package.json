@@ -4,14 +4,14 @@
   "source": "src/index.html",
   "description": "## Скрытые файлы",
   "main": "index.html",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://github.com/komedy2205/goit-js-hw-08",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /src/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/komedy2205/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Vladimir Bielov <komedy2205@gmail.com>",
